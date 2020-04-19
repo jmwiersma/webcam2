@@ -8,9 +8,9 @@ App {
 
 	property url 	tileUrl : "Webcam2Tile.qml"
 	property url 	thumbnailIcon: "qrc:/tsc/webcam2.png"
-	property 		WebcamFullScreen webcamFullScreen
-	property 		WebcamConfigScreen webcamConfigScreen
-	property 		WebcamTile webcamTile
+	property 		Webcam2FullScreen webcamFullScreen
+	property 		Webcam2ConfigScreen webcamConfigScreen
+	property 		Webcam2Tile webcamTile
 
 	property string 	webcamImage1Source
 	property string 	webcamImage2Source
