@@ -24,7 +24,7 @@ App {
 	property int 	webcamTimer1Interval: 1000
 	property bool 	webcamTimer1Running: false
 	property variant settings: { 
-		"webcamImageURL1" : "http://admin:12345@192.168.2.182/ISAPI/Streaming/channels/201/picture"
+		"webcamImageURL1" : "http://admin:XXXX@192.168.X.XXX/ISAPI/Streaming/channels/201/picture"
 	}
 
 	FileIO {
