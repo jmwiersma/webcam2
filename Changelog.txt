@@ -1,15 +1,2 @@
-Version 1.0.5
-- settings are now stored in the /mnt/data/tsc folder
-- compatible with firmware 5 only, support for lower firmwares has been dropped
-
-Version 1.0.3
-- firmware 5 compatibility
-
-Version 1.0.2
-- bugfix for dim state
-
-Version 1.0.1
-- The webcam image of the tile will not be shown anymore during dimmed state.
-
-Version 1.0.0
-- First edition of the "webcam" app. This app loads a jpg file every 2 seconds from a http URL.
+Version 0.5
+- Test version based on 1.0.5 of Webcam
